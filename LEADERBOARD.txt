@@ -1,0 +1,7 @@
+NAME: winner, SCORE: 728
+NAME: player2, SCORE: 153
+NAME: player6, SCORE: 95
+NAME: player5, SCORE: 47
+NAME: player1, SCORE: 39
+NAME: player3, SCORE: 0
+NAME: player4, SCORE: 0
